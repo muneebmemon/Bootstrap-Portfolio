@@ -1,0 +1,44 @@
+/*
+	Styling file for my Portfolio website
+*/
+
+/* Styling body */
+body{
+	background-image: url("../images/dust_scratches.png");
+}
+
+.myStyleContainer {
+	background-color: #fff;
+	border: 1px solid #000;
+}
+
+.panel-body h4 {
+	display: inline;
+	color: darkblue;
+	text-shadow: 1px 1px #ccc;
+}
+
+.panel-body a{
+	text-decoration: none;
+}
+
+.panel-body ul li{
+	list-style-type: none;
+	display: inline;
+}
+.col-xs-12 a{
+	text-decoration: none;
+	color:darkblue;
+}
+
+.panelStyle{
+	background-color: #ffffff;
+}
+.navbar-brand-style{
+	font-size: 14px;
+	text-align: center;
+}
+
+.myName{
+	font-size: 24px;
+}
