@@ -35,6 +35,12 @@ body{
 .colStyle{
 	border-bottom: 1px solid #ccc;
 	margin-bottom: 20px;
+	padding-bottom: 10px;
+}
+
+.portfolioTextStyle{
+	text-shadow: 1px 1px #ccc;
+	word-spacing: 0.2em;
 }
 
 .aboutMeStyle{
@@ -50,6 +56,11 @@ body{
 .navbar-brand-style{
 	font-size: 14px;
 	text-align: center;
+}
+
+.connectMePanel {
+	text-align: center;
+	font-size: 18px;
 }
 
 .myName{
