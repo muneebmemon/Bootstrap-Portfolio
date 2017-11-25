@@ -29,7 +29,12 @@ body{
 }
 .col-xs-12 a{
 	text-decoration: none;
-	color:darkblue;
+	color: #000;
+}
+
+.colStyle{
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 20px;
 }
 
 .aboutMeStyle{
@@ -49,4 +54,13 @@ body{
 
 .myName{
 	font-size: 24px;
+	text-align: center;
+}
+
+.footerStyle{
+	text-align: center;
+}
+
+.navbarStyle{
+	text-align: center;
 }
