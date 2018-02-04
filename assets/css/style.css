@@ -5,6 +5,7 @@
 /* Styling body */
 body{
 	background-image: url("../images/dust_scratches.png");
+	padding-bottom: 70px;
 }
 
 .myStyleContainer {
