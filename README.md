@@ -1,2 +1,9 @@
 # Bootstrap-Portfolio
-In this Homework we were asked to re-develop the Basic Portfolio but this time using Bootstrap 3. It has the same BIO, Portfolio and Contact page but this time it was developed using Bootstrap 3.
+This portfolio was built using Bootstrap 3.3. It has 3 main pages Bio, Portfolio and Contact. Bio page has my biography, Portfolio section contains my portfolio and projects while Contact page has a form to contact me.
+
+## Technologies used
+
+- Javascript
+- CSS
+- HTML
+- Bootstrap 3.3
