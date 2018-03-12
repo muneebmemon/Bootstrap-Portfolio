@@ -42,14 +42,17 @@ body{
 .portfolioTextStyle{
 	text-shadow: 1px 1px #ccc;
 	word-spacing: 0.2em;
+	display: none;
 }
 
 .aboutMeStyle{
 	margin-bottom: 15px;
+	display: none;
 }
 
 .paragraphStyle{
 	text-align: justify;
+	display: none;
 }
 .panelStyle{
 	background-color: #ffffff;
