@@ -1,9 +1,10 @@
-# Bootstrap-Portfolio
-This portfolio was built using Bootstrap 3.3. It has 3 main pages Bio, Portfolio and Contact. Bio page has my biography, Portfolio section contains my portfolio and projects while Contact page has a form to contact me.
+# Simple Portfolio using Bootstrap
+
+This portfolio was built using Bootstrap. It has the BIO page which contains a short bio of me, Portfolio page which showcase my different projects and Contact page for contacting me. It also has CONNECT ME section with different ways to connect with me.
 
 ## Technologies used
 
 - Javascript
 - CSS
 - HTML
-- Bootstrap 3.3
+- Bootstrap 3
