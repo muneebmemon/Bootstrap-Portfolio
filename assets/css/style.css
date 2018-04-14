@@ -14,6 +14,11 @@ body{
 	margin-bottom: 20px;
 }
 
+.myStyleContainer h2{
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 35px;
+}
+
 .panel-body h4 {
 	display: inline;
 	color: darkblue;
@@ -42,21 +47,35 @@ body{
 .portfolioTextStyle{
 	text-shadow: 1px 1px #ccc;
 	word-spacing: 0.2em;
-	display: none;
+}
+
+.portfolioTextStyle h4 {
+	color: #1a0666;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 20px;
+}
+
+.portfolioTextStyle img:hover {
+	opacity: 0.8;
+	border: 1px solid darkblue;
 }
 
 .aboutMeStyle{
 	margin-bottom: 15px;
-	display: none;
+	margin-right: -22px;
 }
 
 .paragraphStyle{
 	text-align: justify;
-	display: none;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 18px;
+	word-spacing: 0.4px;
 }
+
 .panelStyle{
 	background-color: #ffffff;
 }
+
 .navbar-brand-style{
 	font-size: 14px;
 	text-align: center;
@@ -64,7 +83,8 @@ body{
 
 .connectMePanel {
 	text-align: center;
-	font-size: 18px;
+	font-size: 28px;
+	font-family: 'Stylish', sans-serif;
 }
 
 .myName{
