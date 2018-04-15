@@ -19,6 +19,23 @@ body{
 	font-size: 35px;
 }
 
+.myStyleContainer h3{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 20px;
+	color: #555555;
+	margin-left: 5px;
+	margin-top: 0px;
+	line-height: 3.5rem;
+	word-spacing: 1.5px;
+}
+
+.myStyleContainer h4{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 18px;
+	color: #317EAC;
+	margin-left: 5px;
+}
+
 .panel-body h4 {
 	display: inline;
 	color: darkblue;
@@ -33,6 +50,7 @@ body{
 	list-style-type: none;
 	display: inline;
 }
+
 .col-xs-12 a{
 	text-decoration: none;
 	color: #000;
@@ -65,6 +83,11 @@ body{
 	margin-right: -22px;
 }
 
+.contactMeStyle{
+	margin-bottom: 15px;
+	margin-right: -22px;
+}
+
 .paragraphStyle{
 	text-align: justify;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -85,11 +108,15 @@ body{
 	text-align: center;
 	font-size: 28px;
 	font-family: 'Stylish', sans-serif;
+	letter-spacing: 0.2rem;
+	word-spacing: 0.05rem;
 }
 
 .myName{
 	font-size: 24px;
 	text-align: center;
+	letter-spacing: 0.1rem;
+	word-spacing: 0.1rem;
 }
 
 .footerStyle{
@@ -98,4 +125,52 @@ body{
 
 .navbarStyle{
 	text-align: center;
+	letter-spacing: 0.1rem;
+}
+
+.headerprofile{
+	display: none;
+}
+
+@media screen and (min-width:768px){
+	.headerprofile{
+		display: inline-block;
+		margin-top: 5px;
+	}
+}
+
+@media screen and (max-width:543px){
+	.myStyleContainer h4{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 14px;
+	color: #317EAC;
+	margin-left: 5px;
+	}
+}
+
+@media screen and (max-width:443px){
+	.myStyleContainer h4{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 12px;
+	color: #317EAC;
+	margin-left: 5px;
+	}
+}
+
+@media screen and (max-width:393px){
+	.myStyleContainer h4{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 10px;
+	color: #317EAC;
+	margin-left: 5px;
+	}
+}
+
+@media screen and (max-width:339px){
+	.myStyleContainer h4{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 8px;
+	color: #317EAC;
+	margin-left: 5px;
+	}
 }
